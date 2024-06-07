@@ -15,3 +15,5 @@ I used Object Oriented Programming, specifically the Singleton Desing Patter to 
 \*Javascript for functionality.
 
 ## Loom Video Link
+
+https://www.loom.com/share/9c462ca0dda64c00b760a0b397c9546e?sid=ef5200f4-6f2c-4342-be62-16697124f2b3
